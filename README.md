@@ -8,6 +8,7 @@ From line 81 onwards, I tried to create a linear regression model to be able to 
 The following graphs were created to visualize the average scores across different variables (prep, race, gender):
 
 (Note: y-axis on this graph is density because the number of students who did not take the prep course is around 2x those who did)
+
 ![prep](prep_nonprep.png)
 
 ![group](group_scores.png)
